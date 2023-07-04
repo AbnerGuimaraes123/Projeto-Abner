@@ -1,0 +1,23 @@
+.corpo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+
+@media only screen and (max-width: 550px) {
+  .corpo {
+    height: 150vh;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+  .corpo {
+    height: 280vh;
+  }
+
+}

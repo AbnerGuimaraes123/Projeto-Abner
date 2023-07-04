@@ -1,0 +1,17 @@
+header {
+    background-color: #9e5252;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  header .logo {
+    flex-grow: 1;
+  }
+  
+  header .logo img {
+    max-width: 100%;
+    height: auto;
+    width: 70px;
+  }

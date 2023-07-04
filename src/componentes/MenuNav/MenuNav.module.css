@@ -1,0 +1,11 @@
+.nave{
+  text-align: center;
+}
+  .nave a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+.destaque{
+  font-weight: bold;
+}

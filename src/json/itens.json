@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Bolo de Chocolate",
+    "linkImg":"https://padariavillalourdes.com.br/web/image/product.template/140/image_256/%5B807%5D%20BOLO%20DE%20CHOCOLATE?unique=5698fa6",
+    "ingredientes": ["3 xícaras de farinha de trigo", "2 xícaras de açúcar", "1 xícara de cacau em pó", "1 colher de sopa de fermento em pó", "1 colher de chá de sal", "2 ovos", "1 xícara de leite", "1/2 xícara de óleo vegetal", "1 colher de chá de essência de baunilha", "1 xícara de água quente"],
+    "instrucoes": "Em uma tigela grande, misture a farinha, o açúcar, o cacau em pó, o fermento e o sal. Adicione os ovos, o leite, o óleo vegetal e a essência de baunilha. Misture bem até ficar homogêneo. Acrescente a água quente e continue misturando. Despeje a massa em uma forma untada e leve ao forno preaquecido a 180°C por cerca de 30-35 minutos. Faça o teste do palito para verificar se o bolo está pronto. Deixe esfriar antes de desenformar e decorar a gosto.",
+    "tempoPreparo": "45 minutos",
+    "rendimento": "10 porções",
+    "qtdEstrela": 4,
+    "id": 1
+  },
+  {
+    "nome": "Lasanha de Frango",
+    "linkImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzhNCwL5tfQl4vu8iFDJWXCSdv-EZUdz8mOtp3FvYaU-pXRhjq7hMSkvhWzCXyl3yn6A&usqp=CAU",
+    "ingredientes": ["500g de massa para lasanha", "2 peitos de frango cozidos e desfiados", "2 xícaras de molho de tomate", "1 cebola picada", "2 dentes de alho picados", "1 colher de sopa de manteiga", "1 xícara de queijo muçarela ralado", "1 xícara de queijo parmesão ralado", "Sal e pimenta a gosto"],
+    "instrucoes": "Em uma panela, refogue a cebola e o alho na manteiga até dourar. Adicione o frango desfiado e tempere com sal e pimenta a gosto. Acrescente o molho de tomate e deixe cozinhar por alguns minutos. Em uma forma refratária, alterne camadas de massa para lasanha, molho de frango e queijo muçarela. Repita as camadas até finalizar com queijo muçarela por cima. Polvilhe queijo parmesão ralado por cima. Leve ao forno preaquecido a 180°C por cerca de 30 minutos ou até dourar. Sirva quente.",
+    "tempoPreparo": "1 hora",
+    "rendimento": "6 porções",
+    "qtdEstrela": 2,
+    "id": 2
+  },
+  {
+    "nome": "Salada Caprese",
+    "linkImg":"https://images.rappi.com.br/products/2095232684-1603207531034.jpg?d=136x136&e=webp",
+    "ingredientes": ["3 tomates grandes", "200g de queijo de búfala", "Folhas de manjericão fresco", "Azeite de oliva extravirgem", "Sal e pimenta a gosto"],
+    "instrucoes": "Corte os tomates e o queijo de búfala em rodelas. Em um prato, disponha as rodelas de tomate e queijo intercaladas. Entre cada camada, adicione algumas folhas de manjericão. Regue com azeite de oliva extravirgem. Tempere com sal e pimenta a gosto. Deixe descansar por alguns minutos antes de servir.",
+    "tempoPreparo": "15 minutos",
+    "rendimento": "4 porções",
+    "qtdEstrela": 5,
+    "id": 3
+  },
+  {
+    "nome": "Pudim de Leite",
+    "linkImg":"https://storage.googleapis.com/grandchef-apps/gc3091/images/products/631d2fb3c51aa.jpg",
+    "ingredientes": ["1 lata de leite condensado", "2 latas de leite (use a lata de leite condensado como medida)", "4 ovos", "1 xícara de açúcar", "1 colher de chá de essência de baunilha"],
+    "instrucoes": "No liquidificador, bata o leite condensado, o leite, os ovos e a essência de baunilha até obter uma mistura homogênea. Reserve. Em uma forma própria para pudim, derreta o açúcar em fogo médio até caramelizar. Espalhe o caramelo por toda a forma, inclusive nas laterais. Despeje a mistura do liquidificador na forma caramelizada. Cubra com papel-alumínio e leve ao forno preaquecido a 180°C em banho-maria por cerca de 1 hora e 30 minutos. Retire do forno e deixe esfriar completamente antes de desenformar. Leve à geladeira por algumas horas antes de servir.",
+    "tempoPreparo": "2 horas",
+    "rendimento": "8 porções",
+    "qtdEstrela": 4,
+    "id": 4
+  },
+  {
+    "nome": "Risoto de Cogumelos",
+    "linkImg":"https://image.gobox.app.br/produto/299/t10240.jpg?v=2",
+    "ingredientes": ["2 xícaras de arroz arbóreo", "300g de cogumelos frescos (shiitake, champignon, etc.)", "1 cebola picada", "2 dentes de alho picados", "4 xícaras de caldo de legumes", "1/2 xícara de vinho branco seco", "2 colheres de sopa de manteiga", "1/2 xícara de queijo parmesão ralado", "Sal e pimenta a gosto"],
+    "instrucoes": "Em uma panela, refogue a cebola e o alho na manteiga até dourar. Adicione os cogumelos fatiados e deixe cozinhar por alguns minutos. Tempere com sal e pimenta a gosto. Em outra panela, aqueça o caldo de legumes. Em fogo médio, adicione o arroz à panela com a cebola e o alho, mexendo bem para envolver os grãos na manteiga. Acrescente o vinho branco e deixe reduzir. Adicione o caldo de legumes aos poucos, mexendo sempre, até o arroz ficar cremoso e al dente. Desligue o fogo e adicione o queijo parmesão ralado, mexendo para incorporar. Sirva quente.",
+    "tempoPreparo": "40 minutos",
+    "rendimento": "4 porções",
+    "qtdEstrela": 5,
+    "id": 5
+  },
+  {
+    "nome": "Mousse de Maracujá",
+    "linkImg":"https://storage.googleapis.com/grandchef-apps/gc11641/images/products/62c892a6ac93f.png",
+    "ingredientes": ["1 lata de leite condensado", "1 lata de creme de leite", "1/2 xícara de suco de maracujá concentrado", "1 envelope de gelatina sem sabor", "1/2 xícara de água quente", "Sementes de maracujá para decorar"],
+    "instrucoes": "No liquidificador, bata o leite condensado, o creme de leite e o suco de maracujá até obter uma mistura homogênea. Dissolva a gelatina sem sabor na água quente e adicione ao liquidificador, batendo novamente. Despeje a mistura em taças individuais ou em um recipiente grande. Leve à geladeira por pelo menos 4 horas ou até firmar. Decore com as sementes de maracujá antes de servir.",
+    "tempoPreparo": "4 horas e 15 minutos",
+    "rendimento": "6 porções",
+    "qtdEstrela": 4,
+    "id": 6
+  }
+]

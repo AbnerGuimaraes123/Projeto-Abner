@@ -1,0 +1,11 @@
+.fim {
+    text-align: center;
+    padding: 20px;
+    background-color: #5f2525;
+    margin-top: auto;
+  }
+  footer img {
+    max-width: 100%;
+    
+    width: 70px;
+  }
